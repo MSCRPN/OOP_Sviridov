@@ -1,0 +1,10 @@
+Ivan;Petrov;Ivanovich;Moscow;1990-05-15;ivan.petrov@mail.ru;+79031112233,88123334455,+74957654321
+Maria;Sidorova;;St.Petersburg;;maria.s@yandex.ru;88124567890,+74951234567
+Alexey;Kuznetsov;Sergeevich;;1985-12-10;alex.kuz@mail.ru;+79167778899
+Elena;Volkova;Petrovna;Kazan;1992-08-20;elena.volkova@gmail.com;8(495)444-55-66
+Dmitry;Morozov;;Novosibirsk;1988-03-25;dmitry.m@yandex.ru;+78122453647
+Anna;Popova;Viktorovna;Ekaterinburg;;anna.popova@mail.ru;89051234567
+Sergey;Ivanov;Dmitrievich;Rostov;1995-11-30;sergey.ivanov@gmail.com;+7(812)765-43-21
+Olga;Smirnova;;Ufa;1991-07-12;olga.smirnova@yandex.ru;84951234567,88129876543
+Pavel;Novikov;Andreevich;Volgograd;1987-09-05;pavel.novikov@mail.ru;88127654321
+Ekaterina;Fedorova;Alexandrovna;Krasnodar;1993-04-18;kate.fedorova@gmail.com;+79091112233
